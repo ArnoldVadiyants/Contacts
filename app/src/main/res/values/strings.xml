@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select">Select</string>
+    <string name="insert">Insert</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="add_contact">Add contact</string>
+    <string name="delete_contact">Delete</string>
+    <string name="save_contact">Save</string>
+    <string name="edit_contact">Edit</string>
+    <string name="no_contacts">No saved contacts. Swipe left to add contact.</string>
+</resources>

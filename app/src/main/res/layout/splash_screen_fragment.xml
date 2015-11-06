@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    >
+
+    <ImageView
+        android:id="@+id/splash_screenImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/android" />
+
+    <ProgressBar
+        android:id="@+id/splash_screenProgressBar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="16dp" />
+
+</FrameLayout>
